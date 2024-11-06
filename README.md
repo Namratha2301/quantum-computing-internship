@@ -67,8 +67,8 @@ The table below compares the performance of different models on the MNIST datase
 |---------------------------|----------|--------|
 | Classical CNN             | 0.999    | 0.0031 |
 | Classical NN              | 0.9141   | 0.2180 |
-| Quantum Neural Network (QNN) | 0.50-0.60 | N/A    |
-| Quantum Convolutional Neural Network (QCNN) | 0.52-0.61 | N/A    |
+| Quantum Neural Network (QNN) | 0.50-0.60 | 0.22   |
+| Quantum Convolutional Neural Network (QCNN) | 0.52-0.61 | 0.54   |
 
 The classical CNN model achieved the highest accuracy, while QCNN models showed promising potential but were limited by current quantum hardware constraints and dataset size.
 
